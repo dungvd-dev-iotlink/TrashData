@@ -1,0 +1,417 @@
+{
+  "videos": [
+	{
+      "title": "Người dùng VinFast VF 9 sau 1 tháng sử dụng: Mua xe qua bản vẽ nhưng điểm hài lòng 9/10 |Autodaily",
+      "description": "Người dùng VinFast VF 9 sau 1 tháng sử dụng: Mua xe qua bản vẽ nhưng điểm hài lòng 9/10 |Autodaily",
+      "url": "https://www.youtube.com/watch?v=cF3MSjNnu8w",
+      "updated": "2023-06-04T17:09:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cF3MSjNnu8w/hqdefault.jpg"
+    },
+    {
+      "title": "|ĐÁNH GIÁ NHANH| Toyota Wigo 2023 ra mắt - giá từ 360 triệu",
+      "description": "|ĐÁNH GIÁ NHANH| Toyota Wigo 2023 ra mắt - giá từ 360 triệu",
+      "url": "https://www.youtube.com/watch?v=0l21weoT6kY",
+      "updated": "2023-06-06T17:09:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0l21weoT6kY/hqdefault.jpg"
+    },
+    {
+      "title": "Android Jetpack: Room",
+      "description": "Florina Muntenescu introduces Room, the database persistence library for Jetpack. Room allows you to:\n* write less boilerplate code\n* map query results to objects automatically\n* provide compile-time checked queries \n* test database operations, including migrations, more easily\n* avoid performing any database operations on the main thread \n\nTake a look at the resources below for more information!\n\nGoogle I/O Room Talk → https://goo.gl/Zumb6a\nRoom persistence library guide → https://goo.gl/s23p8y\nArchitecture Components code samples → https://goo.gl/xuAQQi\nPersistence Codelabs → https://goo.gl/AMwWvx\nIncrementally migrate from SQLite to Room → https://goo.gl/cDCFyN\n7 Pro-tips for Room → https://goo.gl/Kfkzvw\nRoom with a View codelab → https://goo.gl/b8KjA2\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#jetpack #featured",
+      "url": "https://www.youtube.com/watch?v=SKWh4ckvFPM",
+      "updated": "2018-06-04T16:57:23+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/SKWh4ckvFPM/hqdefault.jpg"
+    },
+    {
+      "title": "Android Jetpack: LiveData",
+      "description": "LiveData is part of the Lifecycle library which was designed to help you solve common Android Lifecycle challenges and to make your apps more maintainable and testable. \n\nLiveData is a lifecycle-aware observable. LiveData makes it easy to keep what's showing on screen in sync with the data. Benefits include:\n\n* Lifecycle awareness: LiveData works well with the android lifecycle by only sending updates to UI components that are on screen and automatically removing listeners when a UI component is destroyed.\n* Can be returned by Room, to learn more about Room → https://goo.gl/hWAq6R\n* Reactive UIs with ViewModel and Data Binding\n* Includes basic transformations map and switchMap and MediatorLiveData\n\nLiveData is usually created in a ViewModel class → https://goo.gl/f3gTQx]\n\nThe Lifecycle library includes other classes that LiveData works with, including Lifecycle, LifecycleOwner and LifecycleObservable. To learn more about the Lifecycle library, check out → https://goo.gl/pouGCk\n\nGradle dependencies → https://goo.gl/xD4evT\n\nAlso take a look:\n\nRoom with a View Codelab [LiveData, ViewModel, Room and the architectural guidance] → http://bit.ly/2FS6YQD\nExposing error and loading state via LiveData → https://goo.gl/fjwccG\nViewModels and LiveData - Patterns and Antipatterns → https://goo.gl/1t3tmL\nLiveData with SnackBar, Navigation and other events (the SingleLiveEvent case) → http://bit.ly/2rsmwGl\nSubclassing LiveData → https://goo.gl/53Qq52\nUsing LifecycleObserver → https://goo.gl/e73zTc\nLifecycle codelab → https://goo.gl/OBkIfC\nGuide to app architecture → https://goo.gl/tfae2D\nData Binding docs → http://bit.ly/2IjFicG\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#AndroidJetpack #jetpack #featured",
+      "url": "https://www.youtube.com/watch?v=OMcDk2_4LSk",
+      "updated": "2018-05-31T17:03:27+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/OMcDk2_4LSk/hqdefault.jpg"
+    },
+    {
+      "title": "Android Jetpack: Autosizing TextView",
+      "description": "For the best user experience with text, material design recommends using a dynamic type instead of smaller type sizes or truncating larger-size text. With Android O and Jetpack, TextView gains a new property: autoSizeTextType which allows the text to scale uniformly, when working with dynamic content. You can fine tune the auto-size by setting the minimum and maximum values and the step granularity, or by using preset text sizes. \n\nFor more info:\nAutosizing TextViews guide → https://goo.gl/ythdYL\nGoogle I/O 2017 talk on “What’s new in Support Library” → https://goo.gl/Ukf4Mz\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#jetpack #featured",
+      "url": "https://www.youtube.com/watch?v=JYrpEAz_A1U",
+      "updated": "2018-05-30T17:05:09+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/JYrpEAz_A1U/hqdefault.jpg"
+    },
+    {
+      "title": "Android Jetpack: ViewModel",
+      "description": "ViewModel is part of the Lifecycle library which was designed to help you solve common Android Lifecycle challenges and to make your apps more maintainable and testable. \n\nA ViewModel holds your app's UI data in a lifecycle conscious way that survives configuration changes. Separating your app's UI data from your Activity and Fragment classes lets you better follow the single responsibility principle: Your Activities and Fragments are responsible for drawing data to the screen, while your ViewModel can take care of holding and processing all the data needed for the UI.\n\nMaking a ViewModel is simple:\n* Adding the Lifecycle library to your build.gradle file\n* Extending the ViewModel class\n* Use ViewModelProviders to associate your ViewModel with your UI controller\n\nThen you can move all of your UI related data into your new ViewModel. If you need to customize ViewModel construction, you can create a ViewModelProvider.NewInstanceFactory. ViewModels also work great with the LiveData class to create reactive UIs! \n\nA few words of warning: don't store Contexts in ViewModels and don't confuse ViewModels with the onSaveInstanceState method.\n\nFor more information, check out the video and links below!\n\nGradle dependencies → https://goo.gl/nnrvKT\nViewModels - A Simple Example (Good place to start for very basic usage) → https://goo.gl/pa2F1C\nViewModel Documentation → https://goo.gl/T3Jrzt\nViewModels - Persistence, onSaveInstanceState(), Restoring UI State and Loaders → https://goo.gl/LC1hXV\nArchitecture Blueprint sample with Lifecycle library  \n* Java → https://goo.gl/tPsEdh \n* Kotlin → https://goo.gl/L3NWQH \nArchitecture Components samples → https://goo.gl/KCztpb \nViewModels and LiveData  Patterns and Antipatterns → https://goo.gl/1t3tmL\nExample of ViewModel factory in sample app → https://goo.gl/s7R86g\nArchitecture Components landing page → https://d.android.com/arch\nGuide to app architecture → https://goo.gl/Vqtt34\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#jetpack #featured",
+      "url": "https://www.youtube.com/watch?v=5qlIPTDE274",
+      "updated": "2018-05-29T16:59:53+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/5qlIPTDE274/hqdefault.jpg"
+    },
+    {
+      "title": "Android Jetpack: Paging",
+      "description": "Paging facilitates gradual on-demand data loading from a local or network data source, allowing apps to work with large data sets, including support for RecyclerView. See what the main Paging Library components are, how you use them and how they fit into your app’s architecture.\n\nRead more about the Paging Library here → https://goo.gl/Jw5Q8A\nTake a look at the codelab → https://goo.gl/v8qr8N \nSample apps → https://goo.gl/9AzUSz\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#jetpack #featured",
+      "url": "https://www.youtube.com/watch?v=QVMqCRs0BNA",
+      "updated": "2018-05-21T17:19:49+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/QVMqCRs0BNA/hqdefault.jpg"
+    },
+    {
+      "title": "Android Jetpack: KTX - Sweeter Kotlin Android Development",
+      "description": "Earlier this year we launched a preview of Android KTX - a set of extensions to the Android framework aimed at making your development with Kotlin more clear, pleasant and idiomatic. We've changed the name to Core-KTX and now we’re launching the 1.0 beta version, as part of Android Jetpack - our set of libraries aimed at accelerating Android development.\n\nGet started here → https://developer.android.com/jetpack\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#jetpack #featured",
+      "url": "https://www.youtube.com/watch?v=r_19VZ0xRO8",
+      "updated": "2018-05-17T17:00:27+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/r_19VZ0xRO8/hqdefault.jpg"
+    },
+    {
+      "title": "Android Jetpack: Improve Your App's Architecture",
+      "description": "Announced at I/O 2017, Architecture Components are one part of Jetpack. These components include Room, LiveData, ViewModel, Paging, WorkManager and Navigation. Used separately they solve common but complex architecture issues, such as managing Android Lifecycle (LiveData/ViewModel), or handling background tasks (WorkManager). Used together, you can ditch the boilerplate, build robust apps faster, and focus on the code that makes your app unique!\n\nCheck out the docs and samples:\nArchitecture Components docs → https://goo.gl/guDBdr\nArchitecture Components samples → https://goo.gl/9AzUSz\nGradle dependencies → https://goo.gl/xD4evT\nApp Architecture Guide → https://goo.gl/j5Zztk\nGuide to Background Operations → http://bit.ly/2wjVHZI\n\nCheck out the codelabs:\nRoom with a View Codelab [LiveData, ViewModel, Room and the architectural guidance] → http://bit.ly/2FS6YQD\nAndroid WorkManager Codelab → http://bit.ly/2KGdQ7g\nAndroid Navigation Codelab → http://bit.ly/2rs7jEy\nAndroid Paging Codelab → http://bit.ly/2rmSqDk\nAndroid Lifecycle-aware components Codelab [LiveData and ViewModel] → https://goo.gl/OBkIfC\nAndroid Persistence Codelab [Room] → https://goo.gl/AMwWvx\n\nLike videos? Check out these other DevBytes:\nRoom → https://goo.gl/1ePbRb\nViewModel → https://goo.gl/i6Xh8c\nPaging Library → https://goo.gl/UmkLTG\nLiveData → https://goo.gl/exEQbm\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#AndroidJetpack #jetpack #featured",
+      "url": "https://www.youtube.com/watch?v=7p22cSzniBM",
+      "updated": "2018-05-14T19:35:44+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/7p22cSzniBM/hqdefault.jpg"
+    },
+    {
+      "title": "Building Kotlin friendly APIs - Interoperability",
+      "description": "In this series, Sean McQuillan (@objcode) covers supporting Kotlin in existing projects. For both app developers and library writers, there’s a lot you can do to make your existing code Kotlin friendly. This video covers how to make sure your existing Java programming language code works naturally in Kotlin!\n\nInterop Guide → https://goo.gl/Dx7qZN\nDokka → https://goo.gl/wa14wP",
+      "url": "https://www.youtube.com/watch?v=fWuzGonOM1c",
+      "updated": "2018-05-10T19:57:43+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/fWuzGonOM1c/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing Android Jetpack",
+      "description": "Android Jetpack is a set of components, tools and architectural guidance that make it quick and easy to build great Android apps.  Components are individually adoptable but built to work together while taking advantage of Kotlin language features that make you more productive. Jetpack manages tedious activities like background tasks, navigation, and lifecycle management, so you can eliminate boilerplate code and focus on your what makes your app great. Built around modern design practices, Jetpack components enable fewer crashes and less memory leaked with backwards-compatibility baked in.\n\nThis video is also subtitled in Chinese, Indonesian, Italian, Japanese, Korean, Portuguese, and Spanish\n\nRead more here:\nAndroid Jetpack → https://d.android.com/jetpack\nGetting Started with Jetpack → https://goo.gl/bGnL7N\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#jetpack #featured",
+      "url": "https://www.youtube.com/watch?v=LmkKFCfmnhQ",
+      "updated": "2018-05-08T20:58:12+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/LmkKFCfmnhQ/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing Android Jetpack for Developers",
+      "description": "Android Jetpack is here to accelerate Android development by facilitating a modern app architecture, eliminating boilerplate code, simplifying complex tasks, and providing robust backwards compatibility.\n\nGet started here → https://developer.android.com/jetpack\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#jetpack #featured",
+      "url": "https://www.youtube.com/watch?v=r8U5Rtcr5UU",
+      "updated": "2018-05-08T20:57:56+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/r8U5Rtcr5UU/hqdefault.jpg"
+    },
+    {
+      "title": "What’s new in Android Studio 3.1",
+      "description": "Android Studio 3.1 release introduces highly requested improvements to the Android Profilers, including C++ profiling, class and method filtering in CPU and memory profilers, as well as request data and threads view in the network profiler. Enhanced Room support means you now get autocompletion and can now refactor across SQL and Java/Kotlin code.\n\nOn the tools side, D8 is the new default dexer, replacing dx. It produces smaller and more optimized bytecode and offers a better debugging experience. For Kotlin, running lint checks is now supported from the command line.\n\nFinally, the Android Emulator now lets you resume saved emulator sessions in seconds thanks to Quick Boot and offers system images for APIs 25 and 26 with full Play Store.\n\nRead more in the release notes:\nAndroid Studio - https://goo.gl/J7zb57\nAndroid Plugin for Gradle - https://goo.gl/CYffmK\nAndroid Emulator - https://goo.gl/Lnq8Sn\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU",
+      "url": "https://www.youtube.com/watch?v=nnnW0nehPEA",
+      "updated": "2018-03-26T21:03:34+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/nnnW0nehPEA/hqdefault.jpg"
+    },
+    {
+      "title": "Adding Picture in Picture to your App",
+      "description": "Sean McQuillan (@objcode) gives an overview of adding Picture in Picture support for Android apps. With Android O apps, you can use Picture in Picture on phones to create magical experiences by overlaying other content during critical user tasks like watching a video or navigating.\n\nLearn how to design a Picture in Picture (PIP) overlay, show it to your users, and allow user interaction while in PIP mode.\n\nPIP Blog Post: https://goo.gl/DxVADC\nPIP Navigation Patterns: https://goo.gl/DxVADC\nSample: https://goo.gl/kU7wqV\nDocs: https://goo.gl/8xzpxv\nHandle Configuration Changes: https://goo.gl/ABPJ9w\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU",
+      "url": "https://www.youtube.com/watch?v=hBPd2q2dmXY",
+      "updated": "2018-02-26T21:20:00+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/hBPd2q2dmXY/hqdefault.jpg"
+    },
+    {
+      "title": "APK Analyzer: An Android Tool Time Deep Dive",
+      "description": "This is an updated version of this video.\n\nWojtek Kaliciński introduces the APK Analyzer in Android Studio 2.2. The APK Analyzer gives developers insight into the contents of a release APK, including raw and download file sizes, Android resource and assets previews and a DEX file browser showing package, class and method names and reference counts per file.\n\nUsing the Analyzer is a great way to debug any problems with your builds, find ways to optimize your apps for smaller APK size and figure out if your Proguard and Multidex are configured correctly.\n\nRead more about reducing APK size in our guide on https://developer.android.com/topic/performance/reduce-apk-size.html and find out more about debugging specific problems using the Analyzer in our article on Medium: https://goo.gl/E2jKui\n\n#tools",
+      "url": "https://www.youtube.com/watch?v=qR8FeCQR7L0",
+      "updated": "2017-11-30T17:13:24+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/qR8FeCQR7L0/hqdefault.jpg"
+    },
+    {
+      "title": "What's New in the Android 8.1 Developer Preview",
+      "description": "Dan Galpin highlights many of the the changes in the Android 8.1 Developer Preview, now available to developers on supported devices.  Android 8.1 contains a targeted set of enhancements, including optimizations for Android Go and a new Neural Networks API.  There are also many smaller enhancements, including WallpaperColors, changes to the Autofill Framework, and a new SharedMemory API. On Pixel, Android 8.1 supports lower latency audio using AAUDIO_SHARING_MODE_EXCLUSIVE, while on the Pixel 2, the developer preview allows Android apps to take advantage of HDR+ implemented on the Pixel Visual Core, Google's first custom-designed co-processor for consumer products.\n\nAndroid 8.1 Developer Preview: https://goo.gl/ABnyNP\nOboe currently in developer preview: https://goo.gl/P8tg39\nIntroduction to TensorFlow Lite: https://goo.gl/8GsJVL\n\nCheck out the Android Oreo for Developers playlist here: https://goo.gl/wMKYQt\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU\n\n#androido #android81",
+      "url": "https://www.youtube.com/watch?v=ldwJA_9AIww",
+      "updated": "2017-11-27T20:20:01+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/ldwJA_9AIww/hqdefault.jpg"
+    },
+    {
+      "title": "Account Transfer API for Android Apps",
+      "description": "Sean McQuillan covers the Account Transfer API for Android developers. This feature allows developers to move user accounts to user’s new phone. Android users upgrade devices regularly and optimizing this flow will improve your retention numbers - and keep your users happy!\n\n\nAccount Transfer API: https://goo.gl/7r63Pv\nSample code: https://goo.gl/5wLPYk\n\nAnd to learn more about Account Manager,\n\nAccount Manager: https://goo.gl/MyVHFo\nAccount Authenticator Activity: https://goo.gl/aUJCK2\nAbstract Account Authenticator: https://goo.gl/njNgMP\n\nCheck out the rest of the playlist here: https://goo.gl/WiDD2p\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU\n\n#identity",
+      "url": "https://www.youtube.com/watch?v=Gtp2oHGBqNY",
+      "updated": "2017-11-21T21:57:15+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/Gtp2oHGBqNY/hqdefault.jpg"
+    },
+    {
+      "title": "Improving Retention for Android Apps",
+      "description": "Sean McQuillan covers Google Sign-In, Smart Lock, Autofill Framework, and Auto Backup for Android developers. These features allow app developers to improve their retention and user experience. Android users upgrade devices regularly and providing an optimized sign in and data transfer to their new device will help you improve your retention numbers - and keep your users happy!\n\n\nGoogle Sign-In: https://goo.gl/GbfqgP\nSmart Lock for Passwords: https://goo.gl/GbfqgP\nAndroid Autofill Framework: https://goo.gl/nZuPgM\nAuto Backup: https://goo.gl/ekwCGY\n\nCheck out the rest of the playlist here: https://goo.gl/WiDD2p\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU",
+      "url": "https://www.youtube.com/watch?v=t3q4hEXcosY",
+      "updated": "2017-11-21T00:39:57+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/t3q4hEXcosY/hqdefault.jpg"
+    },
+    {
+      "title": "Android Studio 3.0: Java 8 Language Features Support",
+      "description": "Read more about using desugar in your Android Studio project here: https://goo.gl/vxnVh6\n\nWith Android Studio 3.0 and the new Android Plugin for Gradle, Android app developers can now use Java 8 language features such as lambdas, method references, and more, in their projects. Thanks to bytecode transformations (a step we call \"desugar\"), these also work with code using Java 8 language features in third party libraries. Moreover, the translated DEX code runs on all API levels.\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU",
+      "url": "https://www.youtube.com/watch?v=LhaSi6_i2bo",
+      "updated": "2017-10-25T17:16:59+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/LhaSi6_i2bo/hqdefault.jpg"
+    },
+    {
+      "title": "Migrating to Android Gradle Plugin 3.0.0",
+      "description": "For more information about migrating to Android Gradle Plugin 3.0.0 refer to the guide in our documentation: https://goo.gl/AGR95p\n\nAndroid Plugin version 3.0.0 brings many improvements to build times, especially for multi-module projects. When updating your build files to the newest version however, you might have to watch out for some DSL changes. In this video we show how to deal with errors such as missing flavor dimensions, providing fallbacks for missing build types and flavors in libraries and migrating to a new way of declaring Gradle dependencies. \n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU\n\n#tools #gradle",
+      "url": "https://www.youtube.com/watch?v=oBsbI8ICYKg",
+      "updated": "2017-10-25T17:16:51+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/oBsbI8ICYKg/hqdefault.jpg"
+    },
+    {
+      "title": "Android Studio 3.0: Android Profiler",
+      "description": "Android Profiler in Android Studio 3.0: https://goo.gl/Avshc6\n\nAndroid Studio 3.0 brings a new Android Profiler view, integrating CPU, memory and network profiling on a single timeline. Advanced profiling instrumentation lets you track more data such as network payloads and app events, so you can debug performance and requests made by your app without changing your code.\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU\n\n#tools #perfmatters",
+      "url": "https://www.youtube.com/watch?v=6hTC-fcVPtk",
+      "updated": "2017-10-25T17:16:43+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/6hTC-fcVPtk/hqdefault.jpg"
+    },
+    {
+      "title": "What's New in Android Studio 3.0",
+      "description": "Read more in the release notes here: https://goo.gl/7yo9SM\n\nAndroid Studio 3.0 brings a ton of new features and improvements, including Kotlin support, Android O APIs, Java 8 language features support, external APK debugging, Instant Apps modules and refactoring, an integrated Android Profiler and more. \n\nMigrating to Android Gradle Plugin 3.0.0: https://goo.gl/y3JEet\nAndroid Studio 3.0: Android Profiler: https://goo.gl/xZXP9q\nAndroid Studio 3.0: Java 8 Language Features Support: https://goo.gl/rTZfCi\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU\n\n#tools",
+      "url": "https://www.youtube.com/watch?v=0n9sBgds-Hs",
+      "updated": "2017-10-25T17:16:34+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/0n9sBgds-Hs/hqdefault.jpg"
+    },
+    {
+      "title": "Improving Android Studio Performance on Memory-Constrained Machines",
+      "description": "If you’re writing Android apps on a memory-constrained machine, this video will show you tips and tradeoffs in running Android Studio more smoothly.\n\nCheck out the Android Developers site: https://goo.gl/GOiCz\n\nWatch more of the Android Tool Time series: https://goo.gl/mAitOr\n\nSubscribe to the Android channel: http://goo.gl/GEh1ds",
+      "url": "https://www.youtube.com/watch?v=3TENdS9Qqcc",
+      "updated": "2017-09-26T17:08:29+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/3TENdS9Qqcc/hqdefault.jpg"
+    },
+    {
+      "title": "Using Fonts in Android",
+      "description": "Android O and Support Library 26 introduce new ways of working with fonts. You can now bundle fonts as resources by adding the font file in the res/font folder and use it like any other asset in XML layouts, styles or programmatically via the Typeface. \n\nInstead of bundling your font files in the APK, you can now let the APK download them. Your app’s size is decreased and overall system health is improved, since multiple APKs can use the same font. \n\nFor more info, check out:\nWorking with Fonts guide: https://goo.gl/BH43G7\nDownloadable Fonts guide: https://goo.gl/1qot1v\nDownloadable Fonts sample: https://goo.gl/xJ5O3C\nGoogle I/O 2017 talk on “What’s new in Support Library”: https://goo.gl/Ukf4Mz\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU",
+      "url": "https://www.youtube.com/watch?v=TfB-TsLFJdM",
+      "updated": "2017-09-12T17:01:32+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/TfB-TsLFJdM/hqdefault.jpg"
+    },
+    {
+      "title": "Introduction to Android Things",
+      "description": "Dave Smith (https://google.com/+DaveSmithDev) introduces the Android Things platform, the first version of Android supported by Google that enables developers to build their own production devices and maintain them at scale. Learn more about the Android Things SDK at https://developer.android.com/things and join our community at https://g.co/iotdev.\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU\n\n#AndroidThings",
+      "url": "https://www.youtube.com/watch?v=HxRv_w5DcxM",
+      "updated": "2017-09-08T17:00:27+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/HxRv_w5DcxM/hqdefault.jpg"
+    },
+    {
+      "title": "Notification Updates in Android Oreo",
+      "description": "Notification Channels: https://goo.gl/2iyGTx\nNotification Badges: https://goo.gl/PxZ9tN\n\nAndroid Oreo introduces several key updates to notifications, including notification channels and notification badges. Notification channels are collections of associated notifications. Each notification has a channel, and users can set preferences for each notification channel via the app's settings.\n\nNotification channels are especially important because they are required for all notifications on Android Oreo or your notifications won't display!\n\nAndroid Oreo also introduces Notification badges that appear on app icons in supported launchers to show the user that there are outstanding notifications.\n\nTo learn more about notification updates, check out the new notification documentation, sample and codelab in Java and Kotlin.\nNotification Documentation: https://goo.gl/mIJ00m\nNotification Sample: https://goo.gl/3wUNkZ\nJava Codelab: https://goo.gl/btKdpo\nKotlin Codelab: https://goo.gl/rQqBv8\n\nFor a full list of changes in Android O, check out this video: https://goo.gl/SyRgiB\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU",
+      "url": "https://www.youtube.com/watch?v=zGIw4MIJn5o",
+      "updated": "2017-09-07T21:29:50+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/zGIw4MIJn5o/hqdefault.jpg"
+    },
+    {
+      "title": "Android Adaptive Icons",
+      "description": "Adaptive icons, introduced in Android-O, are a new way to deliver your application’s icon which will be masked by user’s devices; making all of the icons on it more coherent. Developers supply separate foreground and background layers allowing devices to perform interesting visual presentations and animation.\n\nProviding an adaptive icon is straightforward and will help your app to fit in on Android-O user’s devices and benefit from the new ways they can be displayed.\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU",
+      "url": "https://www.youtube.com/watch?v=5MHFYfXno9c",
+      "updated": "2017-09-05T21:02:55+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/5MHFYfXno9c/hqdefault.jpg"
+    },
+    {
+      "title": "What’s New in Support Library v26",
+      "description": "Support Library v26 comes with a lot of new features, specifically: fonts as resources and downloadable fonts, access to backwards compatible emoji support via the new EmojiCompat library, the ability to allow the text size of your TextView to expand or contract automatically to fill its layout, the option to implement animations driven by physics forces with the ‘spring and fling’ animations, improved parity with the Android framework, various form factors such as Wear and TV, and, finally, a library slimmed down by moving minSdk to 14 and dropping 1.4k methods. \n\nFor more info, check out:\nSupport Library Docs: https://goo.gl/rOJEa7\nWhat's New in Android Support Library, Google I/O '17 talk: https://goo.gl/Ukf4Mz\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU",
+      "url": "https://www.youtube.com/watch?v=2GTivnMCR-Y",
+      "updated": "2017-08-29T17:00:39+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/2GTivnMCR-Y/hqdefault.jpg"
+    },
+    {
+      "title": "Android Oreo Background Execution Limits",
+      "description": "Android Oreo introduces important background execution limits that all developers should be aware of, such as not being able to freely launch services from the background and restrictions on implicit broadcast receivers. See how these changes affect apps and best practices for updating your apps.\n\nIf you'd like to learn more, check out the documentation:\n\nO Behavior Change Documentation\nAndroid 8.0 Behavior changes: https://goo.gl/Vo9Cp5\nBackground Execution Limits: https://goo.gl/efLcV2\nImplicit Broadcast Exceptions: https://goo.gl/ZTXAvE\nLocation Limits: https://goo.gl/iT3PVW\n\nJobs\nJobScheduler Improvements: https://goo.gl/xD9Muk\nJobIntentService: https://goo.gl/YkR9T4\nIntelligent Job-Scheduling: https://goo.gl/1Gv7TW\nFirebase JobDispatcher: https://goo.gl/wYr4o2\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU\n\n#androido #develop #background",
+      "url": "https://www.youtube.com/watch?v=Pumf_4yjTMc",
+      "updated": "2017-08-21T19:00:37+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/Pumf_4yjTMc/hqdefault.jpg"
+    },
+    {
+      "title": "What's New in Android Oreo for Developers",
+      "description": "Android Oreo is available to consumers. Here's a summary of what you need to know to make sure that these early adopters have a great experience, along with ways to enhance that experience with new O features and the support library.\n\nhttps://goo.gl/X4CGFR\nhttps://goo.gl/rOJEa7\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU\n\n#androido #develop",
+      "url": "https://www.youtube.com/watch?v=7kD0ZYzJbYo",
+      "updated": "2017-08-21T18:59:59+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/7kD0ZYzJbYo/hqdefault.jpg"
+    },
+    {
+      "title": "Kotlin: Android Support Announced at Google I/O",
+      "description": "Visit these sites for more information: \nKotlin website - https://goo.gl/W6bJJJ, Kotlin and Android documentation - https://goo.gl/NWt6O7\n\nAndroid announced full support for the Kotlin language at Google I/O along with an increased commitment to both the Java programming language and C++.  We interviewed key stakeholders involved with the decision from both Google and Jetbrains to help understand why this decision was made and what it means to the Android developer community.\n\nSubscribe to the Android Developers channel here: https://goo.gl/vLYDU\n\n#Kotlin #Develop",
+      "url": "https://www.youtube.com/watch?v=NqlRg1_bCC4",
+      "updated": "2017-06-08T20:55:00+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/NqlRg1_bCC4/hqdefault.jpg"
+    },
+    {
+      "title": "Life is Great and Everything Will Be Ok, Kotlin is Here (Google I/O '17)",
+      "description": "Using Kotlin for Android development has grown in popularity over the past few years and is now officially supported by Google. If you are not already using Kotlin you might be wondering why and how to adopt it. In the first part of this talk, Jake will cover advancing the usage and design patterns of the language for Android development to solve larger problems. In the second part, Christina will share her experience using Kotlin in production, from mistakes to successes, and help you answer questions your team/company might ask about adopting it.\n\nWatch more Android talks at I/O '17 here: https://goo.gl/c0LWYl\nSee all the talks from Google I/O '17 here: https://goo.gl/D0D4VE\n\nSubscribe to the Android channel: http://goo.gl/GEh1ds\n\n#io17 #GoogleIO #GoogleIO2017",
+      "url": "https://www.youtube.com/watch?v=fPzxfeDJDzY",
+      "updated": "2017-05-19T23:12:25+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/fPzxfeDJDzY/hqdefault.jpg"
+    },
+    {
+      "title": "Introduction to Kotlin (Google I/O '17)",
+      "description": "Kotlin is now an officially supported language for Android. This session provides an introduction to the language, covering basic concepts and tips for developers to get started with it.\n\nWatch more Android talks at I/O '17 here: https://goo.gl/c0LWYl\nSee all the talks from Google I/O '17 here: https://goo.gl/D0D4VE\n\nSubscribe to the Android channel: http://goo.gl/GEh1ds\n\n#io17 #GoogleIO #GoogleIO2017",
+      "url": "https://www.youtube.com/watch?v=X1RVYt2QKQE",
+      "updated": "2017-05-19T19:43:07+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/X1RVYt2QKQE/hqdefault.jpg"
+    },
+    {
+      "title": "Getting Started with Kotlin",
+      "description": "We have never added a new programming language to Android... until now! With Android Studio 3.0 we are officially supporting Kotlin for creating Android apps. Learn how to start a new project with the Kotlin language enabled or how to convert your existing classes using the Convert Java file to Kotlin refactoring.\n\nFor more information about the language syntax and idioms, refer to our blog post: https://android-developers.googleblog.com/2017/05/android-announces-support-for-kotlin.html\n\n#tools #kotlin",
+      "url": "https://www.youtube.com/watch?v=czKo-jPVweg",
+      "updated": "2017-05-18T20:19:22+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/czKo-jPVweg/hqdefault.jpg"
+    },
+    {
+      "title": "Getting Started with Kotlin",
+      "description": "We have never added a new programming language to Android... until now! With Android Studio 3.0 we are officially supporting Kotlin for creating Android apps. Learn how to start a new project with the Kotlin language enabled or how to convert your existing classes using the Convert Java file to Kotlin refactoring.\n\nFor more information about the language syntax and idioms, refer to our blog post: https://android-developers.googleblog.com/2017/05/android-announces-support-for-kotlin.html\n\n#tools #kotlin",
+      "url": "https://www.youtube.com/watch?v=czKo-jPVweg",
+      "updated": "2017-05-18T20:19:22+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/czKo-jPVweg/hqdefault.jpg"
+    },
+    {
+      "title": "What's New in Android (Google I/O '17)",
+      "description": "Overview of the latest developer-facing features in the Android platform, including the O Developer Preview SDK, the Support Libraries and other new and exciting developments.\n\nWatch more Android talks at I/O '17 here: https://goo.gl/c0LWYl\nSee all the talks from Google I/O '17 here: https://goo.gl/D0D4VE\n\nSubscribe to the Android channel: http://goo.gl/GEh1ds\n\n#io17 #GoogleIO #GoogleIO2017",
+      "url": "https://www.youtube.com/watch?v=1N9KveJ-FU8",
+      "updated": "2017-05-17T23:53:01+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/1N9KveJ-FU8/hqdefault.jpg"
+    },
+    {
+      "title": "Android Studio 3.0 Canary 1",
+      "description": "At Google I/O 2017, we're announcing the first preview of Android Studio 3.0, available to download in the Canary channel. This update brings a ton of new features and improvements, including Kotlin support, Android O APIs, Java 8 language features, external APK debugging, Instant Apps modules and refactoring, unified profilers and more. Also learn about the new Emulator release, which includes Play Store, OpenGL ES 3.0 compatibility, proxy settings and a new bug reporting page. \n\nPlease refer to the announcement blogpost at https://goo.gl/ga5oVr for more details, as well as links to more detailed documentation pages. If you find any bugs in this release, you can use the new issue tracker to let us know. You can find instructions here: https://developer.android.com/studio/report-bugs.html\n\nSubscribe to the Android channel: http://goo.gl/GEh1ds",
+      "url": "https://www.youtube.com/watch?v=rHiA66zUv8c",
+      "updated": "2017-05-17T21:04:47+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/rHiA66zUv8c/hqdefault.jpg"
+    },
+    {
+      "title": "Android Instant Apps: UX Best Practices",
+      "description": "Marc Tobias Kunisch introduces UX best practices for Android Instant Apps. Instant Apps will make it much easier to make your app accessible to your users. My removing the installation step your users are just one tap away from using your functionality.\n \nTo learn more visit:\ng.co/instantapps\n\nSubscribe to the Android channel: http://goo.gl/GEh1ds",
+      "url": "https://www.youtube.com/watch?v=KImzvcrBfzE",
+      "updated": "2017-05-17T17:08:40+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/KImzvcrBfzE/hqdefault.jpg"
+    },
+    {
+      "title": "What's New in Android O for Developers",
+      "description": "Android O Developer Preview site:  https://developer.android.com/preview/index.html\n\nAndroid Developers preview of the upcoming O release - Learn how to use the new behavior changes like the new Background restrictions and new features like Notification channels, Autofill framework, XML resources and many more! \n\nCheckout the preview site to see how you can be compatible with Android O even before you start targeting O.\n\n#androido #featured",
+      "url": "https://www.youtube.com/watch?v=63pKwVE4Uog",
+      "updated": "2017-03-27T21:00:31+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/63pKwVE4Uog/hqdefault.jpg"
+    },
+    {
+      "title": "App Links Assistant in Android Studio 2.3 - Android Tool Time",
+      "description": "Read more about App Links: https://goo.gl/ZjxohE\nGet the latest version of Android Studio: \nhttps://developer.android.com/studio/index.html\n\nApp Links, introduced in Android Marshmallow, is a great way to reduce friction for users launching HTTP links pointing to your app on Android by getting rid of the disambiguation dialog. \n\nAndroid Studio 2.3 introduces a new tool for adding App Links support to your project by following a few simple steps. It makes the necessary changes to your Android Manifest, inserts code snippets and lets you generate and test the Digital Asset Links file for your server.\n\n#tools\n\nRead more about App Links: https://goo.gl/ZjxohE\nGet the latest version of Android Studio: \nhttps://developer.android.com/studio/index.html",
+      "url": "https://www.youtube.com/watch?v=lpaByLW_ctw",
+      "updated": "2017-03-02T22:24:58+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/lpaByLW_ctw/hqdefault.jpg"
+    },
+    {
+      "title": "What’s new in Android Studio 2.3 - Android Tool Time",
+      "description": "In this video Wojtek Kaliciński shows the notable new features of Android Studio 2.3: improvements to Instant Run, layout editor changes (https://developer.android.com/training/constraint-layout/index.html), WebP image format support, the new App Links Assistant (https://developer.android.com/studio/write/app-link-indexing.html), lint baseline mode and more!\n\nUpdate to Android Studio 2.3 on the stable channel using the IDE updater or download it here: https://goo.gl/KVd52R\n\n#tools",
+      "url": "https://www.youtube.com/watch?v=VFyKclKBGf0",
+      "updated": "2017-03-02T22:24:58+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/VFyKclKBGf0/hqdefault.jpg"
+    },
+    {
+      "title": "Create UI tests with Espresso Test Recorder",
+      "description": "Read more about Espresso: https://goo.gl/7PDMH5\nIdlingResource: https://goo.gl/e8UYHq\nDownload Android Studio 2.3 here: https://goo.gl/W4PcoC\n\nLearn how to use the Espresso Test Recorder in Android Studio 2.3 to add UI test to your app. Whether you’re just learning the Espresso framework or you want to create a base for your UI test suite quickly, the Test Recorder is a great tool that will make the job faster and easier by creating most of the code for you!\n\nAdditional Resources:\nRead more about Espresso: https://goo.gl/7PDMH5\nIdlingResource: https://goo.gl/e8UYHq\nDownload Android Studio 2.3 here: https://goo.gl/W4PcoC\n\n#tools #testing",
+      "url": "https://www.youtube.com/watch?v=JRkDVvB106k",
+      "updated": "2017-03-02T22:24:58+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/JRkDVvB106k/hqdefault.jpg"
+    },
+    {
+      "title": "Setting up the Android Emulator: An Android Tool Time Deep Dive",
+      "description": "The Device Manager in Android Studio provides good defaults, but to make sure your Android Emulator is running at full speed and hardware acceleration, following the advice of Wojtek Kaliciński in this episode of Android Tool Time. Check out the medium article here: https://goo.gl/l9H9ho\n\nYou can read more about the available settings and get instructions for each operating system in our documentation: https://goo.gl/KBH1dF\n\n#tools",
+      "url": "https://www.youtube.com/watch?v=lj_CTXVrUto",
+      "updated": "2016-12-21T22:21:10+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/lj_CTXVrUto/hqdefault.jpg"
+    },
+    {
+      "title": "Building interfaces with ConstraintLayout in Android Studio",
+      "description": "The new Layout Editor in Android Studio 2.2 has some surprises, including a new blueprint mode, revamped properties inspector and support for ConstraintLayout, a new way to define layouts for your apps. \n\nIn this Android Tool Time episode Wojtek Kaliciński shows you the basics of working with ConstraintLayouts in the visual editor.  If you want to try it out yourself, you can find our codelab here: https://codelabs.developers.google.com/codelabs/constraint-layout\n\nWhen you’re familiar with the layout editor interface, read the rest of our Medium article where you’ll find some more advanced tips and tricks for ConstraintLayout: https://goo.gl/a5orYw\n\n#tools #layouts #ui",
+      "url": "https://www.youtube.com/watch?v=XamMbnzI5vE",
+      "updated": "2016-12-20T22:03:19+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/XamMbnzI5vE/hqdefault.jpg"
+    },
+    {
+      "title": "Profile GPU Rendering : M Update (Android Performance Patterns Season 5, Ep. 10)",
+      "description": "The “Profile GPU Rendering” tool has been updated for M release of Android! In this video +Colt McAnlis will introduce you to the new information this tool describes, alongside what to do when performance in one of these areas starts to suffer.\n\nFor versions older than M, check out our other video on Profile GPU Rendering: https://goo.gl/s8ZmyQ \n\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\n #PERFMATTERS",
+      "url": "https://www.youtube.com/watch?v=erGJw8WDV74",
+      "updated": "2016-04-26T17:02:05+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/erGJw8WDV74/hqdefault.jpg"
+    },
+    {
+      "title": "The Importance of Thread Priority (Android Performance Patterns Season 5, Ep. 9)",
+      "description": "Fun fact : Modern CPUs can only handle a certain number of threads at one time. Once you get above that limit, they have to start scheduling which thread gets the next open block of CPU processing time. And even better : This can influence the performance of your Android app.\n\nIn this video +Colt McAnlis introduces the concept of thread priority, why it’s important to work with, and how to set it for threads you create, in a very sane way.\n\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\n #PERFMATTERS",
+      "url": "https://www.youtube.com/watch?v=NwFXVsM15Co",
+      "updated": "2016-04-19T17:00:10+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/NwFXVsM15Co/hqdefault.jpg"
+    },
+    {
+      "title": "Threading and Loaders. (Android Performance Patterns Season 5, Ep. 8)",
+      "description": "Let’s say you’ve got some 20 bitmaps being decoded on a worker thread. Well, what happens if your activity is destroyed before that work completes?\n\nIn this video Doug Stevenson explains Loaders. A super-helpful class that can give you insight into how the activity lifecycle is changing, so that you can better understand how to address threaded work that might be in flight.\n\nSee Android Architecture sample code here: https://goo.gl/MWXVav \n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\n #PERFMATTERS\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds",
+      "url": "https://www.youtube.com/watch?v=s4eAtMHU5gI",
+      "updated": "2016-04-12T17:35:13+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/s4eAtMHU5gI/hqdefault.jpg"
+    },
+    {
+      "title": "The Zen of IntentService. (Android Performance Patterns Season 5 ep7)",
+      "description": "Dealing with Intent responses is a backbone concept to Android development. But in situations where an Intent results in long-running work, you need to find an efficient way to offload that to a different thread.\n\nIn this video +Colt McAnlis discusses where IntentServices fit into the big picture of threading on Android, alongside noting some nuances that come along with using this class.\n\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\n #PERFMATTERS #background",
+      "url": "https://www.youtube.com/watch?v=9FweabuBi1U",
+      "updated": "2016-04-05T17:07:34+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/9FweabuBi1U/hqdefault.jpg"
+    },
+    {
+      "title": "Swimming in Threadpools. (Android Performance Patterns Season 5, Ep. 6)",
+      "description": "We know that you’re an awesome engineer, and you’re using threading to the MAX. But over time, it gets harder and harder to handle how work is distributed across all those AsyncTasks and HandlerThreads. It gets especially tricky when you try to break up large blocks of work, like image processing, and find a threaded solution for it.\n\nIn this video Colt McAnlis introduces the ThreadPoolExecuter class, and shows how it can fill the gap for all of your scalable threading computation needs.\n\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here: https://goo.gl/6ccETk\n\n #PERFMATTERS",
+      "url": "https://www.youtube.com/watch?v=uCmHoEY1iTM",
+      "updated": "2016-03-29T17:00:57+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/uCmHoEY1iTM/hqdefault.jpg"
+    },
+    {
+      "title": "Getting a HandlerThread. (Android Performance Patterns Season 5, Ep. 5)",
+      "description": "While AsyncTask is the most useful threading class you can use, there’s some situations where it just doesn’t make sense. For example, AsyncTasks aren’t good for long-running work, or for threaded callbacks. \n\nIn this video Colt McAnlis shows how HandlerThread can be used to pick up the slack. This dedicated, long-running thread resource is ideal for situations where you have to process big workloads, or if you need a place to get an API result back, in a threaded manner.\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : https://goo.gl/6ccETk\n\n #PERFMATTERS\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds",
+      "url": "https://www.youtube.com/watch?v=adPLIAnx9og",
+      "updated": "2016-03-22T17:00:27+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/adPLIAnx9og/hqdefault.jpg"
+    },
+    {
+      "title": "Good AsyncTask Hunting. (Android Performance Patterns Season 5, Ep. 4)",
+      "description": "AsyncTask is awesome. It helps you get packets of work OFF the main thread, onto a worker thread, and then helps you get the results BACK to the main thread later. It’s almost one of the most useful tools you have when writing performant Android Apps.\n\nBut as Colt McAnlis shows, AsyncTask is far from a silver bullet; there’s a few nuances and tricks that come alongside this handy helper, which if you don’t pay attention to, can lead to memory leaks, headaches, and other sorts of craziness.\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : https://goo.gl/6ccETk\n\n #PERFMATTERS\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds",
+      "url": "https://www.youtube.com/watch?v=jtlRNNhane0",
+      "updated": "2016-03-15T17:00:09+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/jtlRNNhane0/hqdefault.jpg"
+    },
+    {
+      "title": "Memory & Threading. (Android Performance Patterns Season 5, Ep. 3)",
+      "description": "It’s no secret that threaded code and system memory don’t play well together, and on Android, this is no different. The same threading+memory problems you’d see elsewhere, exist here too… except for a few caveats.\n\nIn this video +Colt McAnlis introduces some of the nuances of how memory and threading work together on android, and gives some tips on how you can avoid memory leaks and other issues with lifecycle changes.\n\n\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\n #PERFMATTERS\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds",
+      "url": "https://www.youtube.com/watch?v=tBHPmQQNiS8",
+      "updated": "2016-03-08T18:00:24+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/tBHPmQQNiS8/hqdefault.jpg"
+    },
+    {
+      "title": "Understanding Android Threading. (Android Performance Patterns Season 5, Ep. 2)",
+      "description": "To become a zen-ninja of writing threaded code, you need to understand how the Android platform uses threading at the system level, and how that influences design choices & decisions in your app.\n\nIn this video, Colt McAnlis will walk through how Android is using threading under the hood, and talk about why specific classes were created to help you work in that environment more efficiently.\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\n #PERFMATTERS\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds",
+      "url": "https://www.youtube.com/watch?v=0Z5MZ0jL2BM",
+      "updated": "2016-03-01T18:00:07+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/0Z5MZ0jL2BM/hqdefault.jpg"
+    },
+    {
+      "title": "Threading Performance 101. (Android Performance Patterns Season 5,  Ep. 1)",
+      "description": "When it comes to building great Android apps, there are very few things as important to performance as threading. Being able to move work off of the main thread, in the right way, is core to your ability to stabilize your app, and make happier users.\n\nIn this video Colt McAnlis offers a high-level view to why threading is so important in Android, as well as offers some insight into what classes are provided to help you make the most of your threaded code in the shortest time possible.\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\n #PERFMATTERS\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds",
+      "url": "https://www.youtube.com/watch?v=qk5F6Bxqhr4",
+      "updated": "2016-02-23T18:22:32+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/qk5F6Bxqhr4/hqdefault.jpg"
+    },
+    {
+      "title": "Minimizing Asset Payload (Android Performance Patterns Season 4 ep5)",
+      "description": "No matter how aggressively you’ve optimized your networking code for performance, there’s still a huge problematic performance issue that you haven’t seen: Bloated asset files. If you’re not aggressively attacking the size of the assets you’re transferring to your users, you’re basically stealing time (and money) from them. Colt McAnlis has some helpful tips to reduce file sizes, for some of the most commonly transferred assets in your Android App.\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here: http://goo.gl/g7mxmI\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds\n\n #PERFMATTERS",
+      "url": "https://www.youtube.com/watch?v=ts5o6t7enOk",
+      "updated": "2015-11-10T18:03:15+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/ts5o6t7enOk/hqdefault.jpg"
+    },
+    {
+      "title": "Adapting to Latency (Android Performance Patterns Season 4 ep4)",
+      "description": "One of the most frequent performance problems your users will notice is how your app reacts when moving from a great network connection to a bad one. If things slow down, get sluggish, or start showing too many spinners, they can show your app the “uninstall“ button.\n\nBut fret not, Colt McAnlis is here to help you understand how to get your app properly adapting to network latency so users don’t get all crazy.\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here: http://goo.gl/g7mxmI\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds\n\n #PERFMATTERS  #network #connectivity #performance",
+      "url": "https://www.youtube.com/watch?v=uzboHWX3Kvc",
+      "updated": "2015-11-03T17:59:03+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/uzboHWX3Kvc/hqdefault.jpg"
+    },
+    {
+      "title": "Effective Prefetching (Android Performance Patterns Season 4 ep3)",
+      "description": "The single biggest improvement your app can make for networking performance has to do with reducing the sheer number of requests made. But rather than just avoiding data syncing all together how exactly do you pull that off? Colt McAnlis can show you how.\n\nIf you’re looking for the optimal way to batch requests to reduce overall network traffic, then prefetching is for you.\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds\n\n #PERFMATTERS",
+      "url": "https://www.youtube.com/watch?v=GajI0uKyAGE",
+      "updated": "2015-10-27T22:18:08+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/GajI0uKyAGE/hqdefault.jpg"
+    },
+    {
+      "title": "Optimizing Network Request Frequencies (Android Performance Patterns Season 4 ep2)",
+      "description": "It’s important for your app to stay up to date, in order to give the latest social feeds, news, and weather reports to your users. But in truth, syncing too often, can be the worst idea for the performance of your application.\n\nColt McAnlis explains one hard, and fast rule when it comes to syncing your data from the network: DO NOT OVER SYNC!\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds\n\n #PERFMATTERS #network #connectivity #performance",
+      "url": "https://www.youtube.com/watch?v=nDHeuEM30ks",
+      "updated": "2015-10-20T16:54:24+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/nDHeuEM30ks/hqdefault.jpg"
+    },
+    {
+      "title": "#Cachematters for networking (Android Performance Patterns Season 4 ep1)",
+      "description": "You know what the fastest, most efficient piece of content for networking performance is? The one you never have to download. Follow along with Colt McAnlis, as he shows that when it comes to networking performance, properly caching your network data is one of the most fundamental performance wins you can create.\n\nWatch more Android Performance Patterns here: http://goo.gl/4ZJkY1\n\nJoin the G+ Community here : http://goo.gl/g7mxmI\n\nSubscribe to the Android Developers channel at http://goo.gl/GEh1ds\n\n #PERFMATTERS #network #connectivity #performance",
+      "url": "https://www.youtube.com/watch?v=7lxVqqWwTb0",
+      "updated": "2015-10-13T19:16:03+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/7lxVqqWwTb0/hqdefault.jpg"
+    }
+  ]
+}
